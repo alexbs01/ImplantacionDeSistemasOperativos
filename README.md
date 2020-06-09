@@ -4,7 +4,7 @@ Todas las prácticas hechas a lo largo del primer año del ciclo de ASIR en esta
 
 ## Índice
 
-1. [Instalación de Windows Server](./PracticasSistemas/"Ej1WindowsServer de Alejandro Becerra.pdf")
+1. [Instalación de Windows Server](./PracticasSistemas/'Ej1WindowsServer de Alejandro Becerra.pdf')
 2. [Creación de dominios en Windows Server](./PracticasSistemas/"Ej2Dominios de Alejandro Becerra.pdf")
 3. [Incorporación de clientes a los dominios de Windows](./PracticasSistemas/"Ej3Incorporación de clientes a dominios de Alejandro Becerra.pdf")
 4. [Instalaciones desatendidas](./PracticasSistemas/"Ej4InstalacionesDesatendidas de Alejandro Becerra.pdf")
