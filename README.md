@@ -1,9 +1,9 @@
 # Implantación de Sistemas Operativos
 
-Todas las prácticas hechas a lo largo del primer año del ciclo de ASIR en esta asignatura.
+Todos los ejercicios hechos, **scripts** y **prácticas**, a lo largo del primer año del ciclo de ASIR en esta asignatura.
 
 ## Índice
-
+	
 1. [Instalación de Windows Server](./PracticasSistemas/Ej1WindowsServer.pdf)
 2. [Creación de dominios en Windows Server](./PracticasSistemas/Ej2Dominios.pdf)
 3. [Incorporación de clientes a los dominios de Windows](./PracticasSistemas/Ej3IncorporacionDeClientesADominios.pdf)
@@ -24,7 +24,10 @@ Todas las prácticas hechas a lo largo del primer año del ciclo de ASIR en esta
 18. [Instalación y configuración de un servidor LDAP en Linux](./PracticasSistemas/Ej18InstalacioLDAPEnLubuntu.pdf)
 19. [Compartido de carpetas y creación de un servidor Samba en Linux (SIN TERMINAR)](./PracticasSistemas/Ej19CompartidoDeCarpetasYRedesMixtas.pdf)
 20. [EXTRA: Escritorio remoto de Linux a Windows](./PracticasSistemas/EXTRA_EscitorioRemotoDeUbuntuAlServidor.pdf)
-21. [EXTRA: File Server Resource Manager en Windows](./PracticasSistemas/EXTRA_FileServerResourceManager.pdf)
-22. [EXTRA: Instalación desatendida con NTLite en Windows](./PracticasSistemas/EXTRA_InstalacionDesatendidaConNTLite.pdf)
-23. [EXTRA: Instalación destendida por red en Windows](./PracticasSistemas/EXTRA_InstalacionDesatendidaPorRed.pdf)
+21. [EXTRA: File Server Resource Manager en Windows](./PracticasSistemas/EXTRA_FileServerResourceManager.pdf)	22. [EXTRA: Instalación desatendida con NTLite en Windows](./PracticasSistemas/EXTRA_InstalacionDesatendidaConNTLite.pdf)	
+23. [EXTRA: Instalación destendida por red en Windows](./PracticasSistemas/EXTRA_InstalacionDesatendidaPorRed.pdf)	
 24. [EXTRA: Perfil superobligatorio en Windows](./PracticasSistemas/EXTRA_PerfilSuperobligatorio.pdf)
+
+-----
+
+1. [Scripts en Windows](https://github.com/alexbs01/Batch) Los scripts se encuentran en otro repositorio a parte dedicado a los **batchfiles**.
