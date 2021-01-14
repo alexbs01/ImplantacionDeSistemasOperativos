@@ -24,7 +24,8 @@ Todos los ejercicios hechos, **scripts** y **prácticas**, a lo largo del primer
 18. [Instalación y configuración de un servidor LDAP en Linux](./PracticasSistemas/Ej18InstalacioLDAPEnLubuntu.pdf)
 19. [Compartido de carpetas y creación de un servidor Samba en Linux (SIN TERMINAR)](./PracticasSistemas/Ej19CompartidoDeCarpetasYRedesMixtas.pdf)
 20. [EXTRA: Escritorio remoto de Linux a Windows](./PracticasSistemas/EXTRA_EscitorioRemotoDeUbuntuAlServidor.pdf)
-21. [EXTRA: File Server Resource Manager en Windows](./PracticasSistemas/EXTRA_FileServerResourceManager.pdf)	22. [EXTRA: Instalación desatendida con NTLite en Windows](./PracticasSistemas/EXTRA_InstalacionDesatendidaConNTLite.pdf)	
+21. [EXTRA: File Server Resource Manager en Windows](./PracticasSistemas/EXTRA_FileServerResourceManager.pdf)
+22. [EXTRA: Instalación desatendida con NTLite en Windows](./PracticasSistemas/EXTRA_InstalacionDesatendidaConNTLite.pdf)	
 23. [EXTRA: Instalación destendida por red en Windows](./PracticasSistemas/EXTRA_InstalacionDesatendidaPorRed.pdf)	
 24. [EXTRA: Perfil superobligatorio en Windows](./PracticasSistemas/EXTRA_PerfilSuperobligatorio.pdf)
 
